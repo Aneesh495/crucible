@@ -64,6 +64,8 @@ Every execution produces an explicit classification:
 
 ## Quickstart
 
+The build and tests require the .NET 10 SDK.
+
 ```bash
 # Build with zero warnings
 dotnet build --configuration Release
